@@ -48,7 +48,36 @@
       básicamente con PHP/MySQL, orientados a sistemas Unix/Linux que son los que más he trabajado.
       En otros proyectos personales también he manejado Oracle, PostgreSQL y Python</p>
           </div>
+          <div class="col-md-12">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          </div>
           <div class="row">
+            <div class="col-md-12">
+            <h1>Mis tecnologías favoritas:</h1>
+            </div>
             <div class="col-md-6">
               <h2>PHP</h2>
             <img src="img/php.jpg" width="400" height="200" />
@@ -99,18 +128,23 @@
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar">
           <h4>Sígueme</h4>
           <div class="col-sm-3">
-          <a href="https://www.facebook.com/daniel.e.delgadodiaz" class="col-md-1">
-          <img src="img/face.png" width="50" height="50">
+          <a href="https://www.facebook.com/daniel.e.delgadodiaz">
+          <img src="img/face.png" width="40" height="40">
           </a>
           </div>
           <div class="col-sm-3">
-          <a href="https://plus.google.com/u/0/100568112230376254089/posts" class="col-md-1">
-          <img src="img/google.png" width="50" height="50">
+          <a href="https://plus.google.com/u/0/100568112230376254089/posts">
+          <img src="img/google.png" width="40" height="40">
           </a>
           </div>
           <div class="col-sm-3">
-          <a href="https://www.linkedin.com/profile/view?id=376593831&trk=nav_responsive_tab_profile_pic" class="col-md-1">
-          <img src="img/linkedin.png" width="50" height="50">
+          <a href="https://www.linkedin.com/profile/view?id=376593831&trk=nav_responsive_tab_profile_pic">
+          <img src="img/linkedin.png" width="40" height="40">
+          </a>
+          </div>
+          <div class="col-sm-3">
+          <a href="https://github.com/Kyiv85">
+          <img src="img/github.png" width="40" height="40">
           </a>
           </div>
         </div><!--/.sidebar-offcanvas-->
