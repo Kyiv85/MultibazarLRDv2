@@ -44,56 +44,34 @@
           <div class="jumbotron">
             <h1>Repositorio de pruebas</h1>
             <p>Este es un repositorio de proyectos personales de Daniel Delgado para ser reutilizados, y/o compartidos. 
-      Esto no es una página oficial, solo experimental con fines académicos</p>
+      Esto no es una página oficial, solo experimental con fines académicos. Las distintas pruebas están desarrolladas
+      básicamente con PHP/MySQL, orientados a sistemas Unix/Linux que son los que más he trabajado.
+      En otros proyectos personales también he manejado Oracle, PostgreSQL y Python</p>
           </div>
           <div class="row">
             <div class="col-md-6">
-              <h2>Heading</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce
- dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut 
-fermentum massa justo sit amet risus. Etiam porta sem malesuada magna 
-mollis euismod. Donec sed odio dui. </p>
+              <h2>PHP</h2>
             <img src="img/php.jpg" width="400" height="200" />
             </div><!--/.col-xs-6.col-lg-4-->
             <div class="col-md-6">
-              <h2>Heading</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce
- dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut 
-fermentum massa justo sit amet risus. Etiam porta sem malesuada magna 
-mollis euismod. Donec sed odio dui. </p>
-            <img src="img/php.jpg" width="400" height="200" />
+              <h2>Python</h2>
+            <img src="img/python.png" width="400" height="200" />
             </div><!--/.col-xs-6.col-lg-4-->
             <div class="col-md-6">
-              <h2>Heading</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce
- dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut 
-fermentum massa justo sit amet risus. Etiam porta sem malesuada magna 
-mollis euismod. Donec sed odio dui. </p>
-            <img src="img/php.jpg" width="400" height="200" />
+              <h2>Linux</h2>
+            <img src="img/linux.jpg" width="400" height="200" />
             </div><!--/.col-xs-6.col-lg-4-->
             <div class="col-md-6">
-              <h2>Heading</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce
- dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut 
-fermentum massa justo sit amet risus. Etiam porta sem malesuada magna 
-mollis euismod. Donec sed odio dui. </p>
-            <img src="img/php.jpg" width="400" height="200" />
+              <h2>MySQL</h2>
+            <img src="img/mysql.png" width="400" height="200" />
             </div><!--/.col-xs-6.col-lg-4-->
             <div class="col-md-6">
-              <h2>Heading</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce
- dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut 
-fermentum massa justo sit amet risus. Etiam porta sem malesuada magna 
-mollis euismod. Donec sed odio dui. </p>
-            <img src="img/php.jpg" width="400" height="200" />
+              <h2>PostgreSQL</h2>
+            <img src="img/postgres.jpg" width="400" height="200" />
             </div><!--/.col-xs-6.col-lg-4-->
             <div class="col-md-6">
-              <h2>Heading</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce
- dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut 
-fermentum massa justo sit amet risus. Etiam porta sem malesuada magna 
-mollis euismod. Donec sed odio dui. </p>
-            <img src="img/php.jpg" width="400" height="200" />
+              <h2>Oracle</h2>
+            <img src="img/oracle.jpg" width="400" height="200" />
             </div><!--/.col-xs-6.col-lg-4-->
           </div><!--/row-->
         </div><!--/.col-xs-12.col-sm-9-->
@@ -117,6 +95,24 @@ mollis euismod. Donec sed odio dui. </p>
             if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
             fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
           </script>
+        </div><!--/.sidebar-offcanvas-->
+        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar">
+          <h4>Sígueme</h4>
+          <div class="col-sm-3">
+          <a href="https://www.facebook.com/daniel.e.delgadodiaz" class="col-md-1">
+          <img src="img/face.png" width="50" height="50">
+          </a>
+          </div>
+          <div class="col-sm-3">
+          <a href="https://plus.google.com/u/0/100568112230376254089/posts" class="col-md-1">
+          <img src="img/google.png" width="50" height="50">
+          </a>
+          </div>
+          <div class="col-sm-3">
+          <a href="https://www.linkedin.com/profile/view?id=376593831&trk=nav_responsive_tab_profile_pic" class="col-md-1">
+          <img src="img/linkedin.png" width="50" height="50">
+          </a>
+          </div>
         </div><!--/.sidebar-offcanvas-->
       </div><!--/row-->
       <hr>
